@@ -1,0 +1,41 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+
+# Site settings
+title: "Онлайн казино - и все о заработке"
+description: > # this means to ignore newlines until "email:"
+   Больше не хочешь быть на мили? Тогда ты попал куда надо! Здесь ты узнаешь как поднять бабла на онлайн cлотах
+
+#blog logo
+logo: "/assets/images/df_logo.jpg"
+float_logo: true # true, false (default)
+
+# blog cover
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+
+name: 'SuperStar'
+author: 'SuperStar'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "http://strategywebsolutions.com" # the base hostname & protocol for your site
+baseurl: "/"
+#used to display twitter cards
+
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:

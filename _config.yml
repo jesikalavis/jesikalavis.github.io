@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Онлайн казино - и все о заработке"
 description: > # this means to ignore newlines until "email:"
-   Больше не хочешь быть на мили? Тогда ты попал куда надо! Здесь ты узнаешь как поднять бабла на онлайн cлотах
+   Больше не хочешь быть на мели? Тогда ты попал куда надо! Здесь ты узнаешь как поднять бабла на онлайн cлотах
 
 #blog logo
 logo: "/assets/images/df_logo.jpg"
@@ -15,8 +15,8 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'SuperStar'
-author: 'SuperStar'
+name: 'Pokeris'
+author: 'Pokeris'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5

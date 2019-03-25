@@ -1,8 +1,12 @@
 # Build settings
 gems:
   - jemoji
+  - jekyll-minifier
   - jekyll-paginate
-
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-archives
+  
 # Site settings
 title: "Онлайн казино - и все о заработке"
 description: > # this means to ignore newlines until "email:"

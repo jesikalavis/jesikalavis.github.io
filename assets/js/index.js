@@ -1,8 +1,6 @@
-/**
- * Main JS file for Casper behaviours
- */
-
-/*globals jQuery, document */
+---
+layout: compress-js
+---
 (function ($) {
     "use strict";
 
